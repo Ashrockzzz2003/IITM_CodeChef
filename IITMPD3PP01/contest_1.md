@@ -3,7 +3,7 @@
 ## Contest_1
 
 Date: `12-09-2022` <br>
-Link: `<a href="https://www.codechef.com/IITMPD3PP01">https://www.codechef.com/IITMPD3PP01</a>` <br>
+Link: <a href="https://www.codechef.com/IITMPD3PP01">`https://www.codechef.com/IITMPD3PP01`</a> <br>
 ID: `IITMPD3PP01`
 
 | S.NO | Problem Link | Solution |
