@@ -36,6 +36,7 @@ Link: [`https://www.codechef.com/IITMPD3PP04`](https://www.codechef.com/IITMPD3P
 ID: `IITMPD3PP04`
 
 | S.No | Problem Link | Solution |
+| ---- | ------------ | -------- |
 | 1 | [Ada King](https://www.codechef.com/IITMPD3PP04/problems/ADAKNG) | [ada_king.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/ada_king.py) |
 | 2 | [Snakes and transition from Capitalism to Socialism](https://www.codechef.com/IITMPD3PP04/problems/SNSOCIAL) | [sns_social.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/sns_social.py) |
 | 3 | [Wealth Disparity](https://www.codechef.com/IITMPD3PP04/problems/INOI1601) | [wealth_disparity.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/wealth_disparity.py) |
