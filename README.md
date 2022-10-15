@@ -29,4 +29,16 @@ ID: `IITMPD3PP03`
 | 4 | <a href="https://www.codechef.com/IITMPD3PP03/problems/RECENTCONT">Recent Contest Problems</a> | <a href="https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP03/recent_contest_problems.py">recent_contest_problems.py</a> |
 | 5 | <a href="https://www.codechef.com/IITMPD3PP03/problems/TLG">The Lead Game</a> | <a href="https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP03/the_lead_game.py">the_lead_game.py</a> |
 
+## Contest_4
+
+Date: `03-10-2022` <br>
+Link: [`https://www.codechef.com/IITMPD3PP04`](https://www.codechef.com/IITMPD3PP04) <br>
+ID: `IITMPD3PP04`
+
+| S.No | Problem Link | Solution |
+| 1 | [Ada King](https://www.codechef.com/IITMPD3PP04/problems/ADAKNG) | [ada_king.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/ada_king.py) |
+| 2 | [Snakes and transition from Capitalism to Socialism](https://www.codechef.com/IITMPD3PP04/problems/SNSOCIAL) | [sns_social.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/sns_social.py) |
+| 3 | [Wealth Disparity](https://www.codechef.com/IITMPD3PP04/problems/INOI1601) | [wealth_disparity.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/wealth_disparity.py) |
+| 4 | [Maximum Size](https://www.codechef.com/IITMPD3PP04/problems/RISK) | [maximum_size.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/maximum_size.py) |
+
 `Ashwin Narayanan S`
