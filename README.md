@@ -15,6 +15,17 @@ ID: `IITMPD3PP01`
 | 5 | <a href="https://www.codechef.com/IITMPD3PP01/problems/BIT2A">A - Books</a> | <a href="https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP01/a_books.py">a_books.py</a> |
 | 6 | <a href="https://www.codechef.com/IITMPD3PP01/problems/MINEAT">Minion Chef and Bananas</a> | <a href="https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP01/minion_chef_and_bananas.py">minion_chef_and_bananas.py</a> |
 
+## Contest_2
+
+Date: `19-09-2022` <br>
+Link: [`https://www.codechef.com/IITMPD3PP02`](https://www.codechef.com/IITMPD3PP02) <br>
+ID: `IITMPD3PP02`
+
+| S.No | Problem Link | Solution |
+| ---- | ------------ | -------- |
+| 1 | [Remove Duplicates](https://www.codechef.com/IITMPD3PP02/problems/REMDUP) | [remove_duplicates.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP02/remove_duplicates.py) |
+| 2 | [Linked List 1](https://www.codechef.com/IITMPD3PP02/problems/LL1) | [linked_list_1.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP02/linked_list_1.py) |
+
 ## Contest_3
 
 Date: `26-09-2022` <br>
