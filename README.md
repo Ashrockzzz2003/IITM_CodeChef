@@ -62,7 +62,20 @@ ID: `IITMPD3PP05`
 | S.No | Problem Link | Solution |
 | ---- | ------------ | -------- |
 | 1 | [Chef and Digit Jumps](https://www.codechef.com/IITMPD3PP05/problems/DIGJUMP) | [chef_and_digit_jumps.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP05/chef_and_digit_jumps.py) |
-| 1 | [Galactik Football](https://www.codechef.com/IITMPD3PP05/problems/GALACTIK) | [galactik_football.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP05/galactik_football.py) |
+| 2 | [Galactik Football](https://www.codechef.com/IITMPD3PP05/problems/GALACTIK) | [galactik_football.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP05/galactik_football.py) |
+
+## Contest_7
+
+Date: `31-10-2022` <br>
+Link: [`https://www.codechef.com/IITMPD3PP07`](https://www.codechef.com/IITMPD3PP07) <br>
+ID: `IITMPD3PP07`
+
+| S.No | Problem Link | Solution |
+| ---- | ------------ | -------- |
+| 1 | [Sudhanava and Books](https://www.codechef.com/IITMPD3PP07/problems/SUDBOOKS) | [sudhanva_and_books.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP07/sudhanva_and_books.py) |
+| 2 | [Compilers and parsers](https://www.codechef.com/IITMPD3PP07/problems/COMPILER) | [compilers_and_parsers.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP07/compilers_and_parsers.py) |
+| 3 | [Chefs in Queue](https://www.codechef.com/IITMPD3PP07/problems/CHFQUEUE) | [chefs_in_queue.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP07/chefs_in_queue.py) |
+| 4 | [Nikhil and Commands](https://www.codechef.com/IITMPD3PP07/problems/CLCO01) | [nikhil_and_commands.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP07/nikhil_and_commands.py) |
 
 
 `Ashwin Narayanan S`
