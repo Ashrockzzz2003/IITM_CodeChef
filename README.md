@@ -1,5 +1,21 @@
 # PDSA_CodeChef
 
+## About the contest
+
+Organizer:  `Indian Institute of Technology Madras (IITM)`
+
+CodeChef has collaborated with Indian Institute of Technology Madras for an integrated learning program on algorithms, data structures, and problem-solving
+
+## Certificate
+
+| Parameter | Value |
+| --------- | ----- |
+| Rank | `15` |
+| Score | `2300 / 3800` |
+| Batch | `Sep 2022` |
+| Credential | [View Credential](https://app.onlinedegree.iitm.ac.in/document_verification/ab9e24f4a3e5b2c03f7bb6f05337ecc4) |
+
+
 ## Contest_1
 
 Date: `12-09-2022` <br>
