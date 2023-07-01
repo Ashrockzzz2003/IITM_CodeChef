@@ -53,4 +53,16 @@ ID: `IITMPD3PP04`
 | 3 | [Wealth Disparity](https://www.codechef.com/IITMPD3PP04/problems/INOI1601) | [wealth_disparity.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/wealth_disparity.py) |
 | 4 | [Maximum Size](https://www.codechef.com/IITMPD3PP04/problems/RISK) | [maximum_size.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP04/maximum_size.py) |
 
+## Contest_5
+
+Date: `17-10-2022` <br>
+Link: [`https://www.codechef.com/IITMPD3PP05`](https://www.codechef.com/IITMPD3PP05) <br>
+ID: `IITMPD3PP05`
+
+| S.No | Problem Link | Solution |
+| ---- | ------------ | -------- |
+| 1 | [Chef and Digit Jumps](https://www.codechef.com/IITMPD3PP05/problems/DIGJUMP) | [chef_and_digit_jumps.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP05/chef_and_digit_jumps.py) |
+| 1 | [Galactik Football](https://www.codechef.com/IITMPD3PP05/problems/GALACTIK) | [galactik_football.py](https://github.com/Ashrockzzz2003/PDSA_CodeChef/blob/main/IITMPD3PP05/galactik_football.py) |
+
+
 `Ashwin Narayanan S`
